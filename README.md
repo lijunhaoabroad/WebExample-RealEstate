@@ -1,3 +1,4 @@
 # WebExample-RealEstate
 
-https://lijunhaoabroad.github.io/WebExample-RealEstate/photo_gallery
+https://lijunhaoabroad.github.io/WebExample-RealEstate
+
